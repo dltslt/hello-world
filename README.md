@@ -1,3 +1,3 @@
 # hello-world
 starter for testing stuff
-looking around in github and visual studio code
+looking around in github, visual studio code and codewars
