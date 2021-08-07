@@ -14,3 +14,4 @@ i am currently working an a newly generated branch 'vscode-changes' which appear
 lets see, whether i manage to upload this branch or not
 => or so i thought... there is an 8 sign key... which is THE SAME as origin/main branch
 confusing
+i commit these changes and now this key is different... so confusing
