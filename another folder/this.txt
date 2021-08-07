@@ -15,3 +15,6 @@ lets see, whether i manage to upload this branch or not
 => or so i thought... there is an 8 sign key... which is THE SAME as origin/main branch
 confusing
 i commit these changes and now this key is different... so confusing
+AHA
+when i want to push the changes, it says "vscode-changes has no upstream branch. do you want to create?"
+well yes, i do!
