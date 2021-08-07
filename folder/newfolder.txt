@@ -3,3 +3,9 @@ I needed to put a file in a folder, to create a folder!
 So, then let's create some more commits!
 To have more green dots on the dashbord ;)
 YAY
+
+Indeed, more green dots there :)
+And I am writing this in VS Code with integrated github support, testing it's features.
+
+How come, that onle the new file in the other new folder shows up as changes?
+Ah... because I didn't save the other changes locally yet.
