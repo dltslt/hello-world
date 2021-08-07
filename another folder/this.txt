@@ -6,3 +6,11 @@ the idea is now, to upload this AND create a new branch
 to achieve this, i need to 'stage' my changes first..
 when i forget to hit the save button, the changes are of course not recognised.
 doing this now, creates a new change => which i stage now
+
+-----
+
+alright, there are LOCAL and REMOTE repositories and/or branches...
+i am currently working an a newly generated branch 'vscode-changes' which appears only locally - weird
+lets see, whether i manage to upload this branch or not
+=> or so i thought... there is an 8 sign key... which is THE SAME as origin/main branch
+confusing
