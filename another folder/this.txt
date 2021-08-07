@@ -1,0 +1,8 @@
+the folder needs a file
+
+and now it has one.
+
+the idea is now, to upload this AND create a new branch
+to achieve this, i need to 'stage' my changes first..
+when i forget to hit the save button, the changes are of course not recognised.
+doing this now, creates a new change => which i stage now
